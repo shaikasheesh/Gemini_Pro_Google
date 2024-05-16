@@ -1,2 +1,5 @@
-# Gemini_Pro_Google
-test the capabilities of Gemini Pro Model
+# Introduction
+Understand the Implementation of Google's Gemini LLM Models
+
+# Invoice_Info_Extration
+Lets deep dive into use case where we will extract information from a Invoice which is a PDF
